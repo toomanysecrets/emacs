@@ -1,0 +1,77 @@
+10
+
+dir
+96
+svn://viewvc.rubyforge.org/var/svn/rinari/trunk/test/sample/test
+svn://viewvc.rubyforge.org/var/svn/rinari
+
+
+
+2006-09-22T21:20:24.916084Z
+1
+technomancy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+43fdc88a-f81d-0410-9906-88148224f650
+
+unit
+dir
+
+test_helper.rb
+file
+
+
+
+
+2010-10-04T13:04:06.738726Z
+fc4d849e28f089141debb18b22058277
+2006-09-22T21:20:24.916084Z
+1
+technomancy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1317
+
+functional
+dir
+
+integration
+dir
+
+fixtures
+dir
+
+mocks
+dir
+

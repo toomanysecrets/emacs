@@ -1,0 +1,132 @@
+10
+
+dir
+96
+svn://viewvc.rubyforge.org/var/svn/rinari/trunk/test/sample
+svn://viewvc.rubyforge.org/var/svn/rinari
+
+
+
+2007-08-02T18:28:14.759394Z
+96
+technomancy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+43fdc88a-f81d-0410-9906-88148224f650
+
+test
+dir
+
+app
+dir
+
+tmp
+dir
+
+log
+dir
+
+Rakefile
+file
+
+
+
+
+2010-10-04T13:04:07.608727Z
+17f2f134da4cd31ea095d5868ca89e86
+2006-09-22T21:20:24.916084Z
+1
+technomancy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+307
+
+script
+dir
+
+components
+dir
+
+config
+dir
+
+db
+dir
+
+doc
+dir
+
+lib
+dir
+
+vendor
+dir
+
+README
+file
+
+
+
+
+2010-10-04T13:04:07.609735Z
+c03e541e76f777df453c8a9696199d46
+2006-09-22T21:20:24.916084Z
+1
+technomancy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7353
+
+public
+dir
+
